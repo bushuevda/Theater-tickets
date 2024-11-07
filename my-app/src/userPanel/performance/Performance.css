@@ -1,0 +1,13 @@
+
+.mainPerformance{
+    flex-direction: row;
+    width: 1100px;
+    display: flex;
+  }
+  
+  .divPerformance{
+    background-color: brown;
+    width: 500px;
+    height: 400px;
+  }
+  

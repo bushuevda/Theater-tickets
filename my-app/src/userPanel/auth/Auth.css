@@ -1,0 +1,11 @@
+.divAuth{
+    position: fixed;
+    background-color: rgb(7, 115, 77);
+    width: 260px;
+    height: 300px;
+}
+
+p{
+    font-size: 21px;
+    color: black;
+}

@@ -1,0 +1,10 @@
+.mainBtns{
+    position: relative;
+    left: 200px;
+}
+
+.menuBtn{  
+    border-radius: 10%;
+    width: 110px;
+    height: 30px;
+}
